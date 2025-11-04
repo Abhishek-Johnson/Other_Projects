@@ -71,8 +71,8 @@ CREATE TABLE tasks (
 
 | Page | Preview |
 |------|----------|
-| 🏠 **Home Page** | ![Home](./Interface_Images/Home.png) |
-| 📋 **Task List** | ![TaskList](./Interface_Images/TaskList.png) |
+| 🏠 **Home Page** | ![Home](./assets/Home.png) |
+| 📋 **Task List** | ![TaskList](./assets/TaskList.png) |
 
 ---
 
