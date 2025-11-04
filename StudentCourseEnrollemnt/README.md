@@ -57,11 +57,11 @@ A simple web-based app built using **Node.js**, **Express.js**, and **MySQL** fo
 
 | Page | Preview |
 |------|----------|
-| 🏠 **Home Page** | ![Home](./Interface_Images/Home.png) |
-| 👩‍🎓 **Student Details** | ![StudentDetails](./Interface_Images/StudentDetails.png) |
-| 📚 **Course Details** | ![CourseDetails](./Interface_Images/CourseDetails.png) |
-| 🧾 **Enrollment Details** | ![EnrollmentDetails](./Interface_Images/EnrollmentDetails.png) |
-| 🔍 **View Details** | ![ViewDetails](./Interface_Images/ViewDetails.png) |
+| 🏠 **Home Page** | ![Home](./assets/Home.png) |
+| 👩‍🎓 **Student Details** | ![StudentDetails](./assets/StudentDetails.png) |
+| 📚 **Course Details** | ![CourseDetails](./assets/CourseDetails.png) |
+| 🧾 **Enrollment Details** | ![EnrollmentDetails](./assets/EnrollmentDetails.png) |
+| 🔍 **View Details** | ![ViewDetails](./assets/ViewDetails.png) |
 
 ---
 
