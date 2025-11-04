@@ -1,1 +1,1 @@
-
+The proposed project is to develop a chatting app that seamlessly integrates music streaming, AI chat capabilities, and image-generating AI services. Key features include user authentication, individual and group chat functionality, Spotify integration for music streaming, ChatGPT API for AI chat, Dall-e API for image generation, search functionality, customization options, and a notification system.
